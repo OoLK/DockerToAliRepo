@@ -16,3 +16,4 @@ nginx:1.27.2
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 nacos/nacos-server:v3.0.1
+java:8
